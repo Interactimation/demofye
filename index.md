@@ -7,7 +7,6 @@ I like markdown for several reasons:
 
 There are other reasons!
 
-I guess...
 
 that's why I left my home planet
 

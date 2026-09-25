@@ -6,3 +6,5 @@ The course is for incoming first year students at Albright College
 
 These are *italics*
 This is **bold**
+
+There are other things I can do.
