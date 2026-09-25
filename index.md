@@ -7,6 +7,8 @@ I like markdown for several reasons:
 
 There are other reasons!
 
+Why don't you read all [about me!](about.md)
+
 
 that's why I left my home planet
 
