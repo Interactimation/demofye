@@ -5,8 +5,8 @@ I like markdown for several reasons:
 * It's easy to learn
 * It's versatile 
 
+There are other reasons!
 
-joy to the wold 
 
 
 
